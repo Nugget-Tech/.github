@@ -53,4 +53,3 @@ Built with purpose, not polish
 
 ---
 
-Let me know if you'd like to add roadmap links, badges, or contributor credits.
